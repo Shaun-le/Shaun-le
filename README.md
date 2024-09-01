@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### I'm a Computer Science Student
-- 🌏: I'm from VietNam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam")
+- 🌏 I'm from VietNam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam")
 - 👀 I’m interested in NLP
 - 🌱 I’m currently learning everything about NLP
 
