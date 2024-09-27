@@ -18,7 +18,7 @@
 <img align="left" alt="LuciusLe's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 <a href="https://www.facebook.com/profile.php?id=61555862920428" target="blank">
 <img align="left" alt="LuciusLe's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
-<a href="https://www.instagram.com/lehuuloi16042002/" target="blank">
+<a href="https://www.instagram.com/shnaunee/" target="blank">
 <img align="left" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 <br/>
   
