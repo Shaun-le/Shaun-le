@@ -25,10 +25,3 @@
 #### Languages I use
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaun-le&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ShaunLe's Github Stats">
-</p>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaun-le&theme=react&line_height=40&hide=python/>" alt="ShaunLe's Github Stats">
-</p>  
